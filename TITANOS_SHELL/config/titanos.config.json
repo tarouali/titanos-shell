@@ -1,0 +1,6 @@
+{
+  "operator": "VEKTOR",
+  "modules": ["deploy", "copygen", "webhooks"],
+  "permissions": "autonomous_execution",
+  "mode": "active"
+}
